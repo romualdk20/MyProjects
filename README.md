@@ -4,4 +4,4 @@ This R project is an automated and complete clustering process.
 It used clustering on principal components (MCA, PCA, FAMD), search for the best clustering by using Decision Tree optimization
 and return the best clustering. The result return also characteristics of each cluster and display cluster visualisation with Decision Tree.
 
-I will push later an use case to help you to get start with my project.
+I will push later an use case to help you get start with my project.
